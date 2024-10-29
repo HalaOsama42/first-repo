@@ -1,0 +1,12 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "disown-opener": "off",
+    "axe/text-alternatives": "off",
+    "axe/structure": "off",
+    "axe/forms": "off",
+    "meta-viewport": "off"
+  }
+}
