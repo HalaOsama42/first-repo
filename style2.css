@@ -1,0 +1,43 @@
+ body{
+        background-image: url("https://images.pexels.com/photos/1955134/pexels-photo-1955134.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+        background-repeat: no-repeat;
+        background-size: cover; 
+    }
+
+.photo{
+    margin-top: 10%;
+    margin-left: 5%;
+}
+
+ .h1{
+    font-size: 45px;
+    color: rgb(9, 9, 9);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.h2{
+    font-size: 35px;
+    color: rgb(13, 12, 12);
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: -20px;
+}
+
+.p{
+    color: rgb(13, 12, 12);
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif;
+    width: 600px;
+}
+
+.div button{
+    margin: 2px;
+    color: rgb(7, 7, 7);
+    background-color:rgb(64, 62, 64);
+    width: 50px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+}
+
+
+
