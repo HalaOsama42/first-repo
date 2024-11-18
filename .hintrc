@@ -9,6 +9,7 @@
       {
         "image-alt": "off"
       }
-    ]
+    ],
+    "axe/structure": "off"
   }
 }
