@@ -28,3 +28,36 @@
     background: #2f2f2f;
     border-color: #2f2f2f;
 } 
+
+.imgs-card{
+width: 100%;
+
+}
+
+
+.cards {
+    padding: 7rem 0;
+}
+
+
+.grid img{
+         width: 100%;
+         justify-content:space-between;
+}
+
+.pt-3 a{
+
+    text-decoration: none;
+    color: #2f2f2f;
+    -webkit-transition: .3s all ease;
+    -o-transition: .3s all ease;
+    transition: .3s all ease;
+}
+
+/* .author-pic{
+
+    width: 25%;
+    border-radius: 50%;
+   justify-content: center;
+   text-align: center;
+}  */
